@@ -18,6 +18,8 @@ Check out the documentation for [vim-markdown-link-convert][github].
 
 \[github]: https://github.com/jdonaldson/vim-markdown-link-convert
 ```
+(note that the backslash up there is due to a problem with the way github
+ encodes markdown inside of code comments).
 
 This can make it easier to write in plaintext without having the links dominate
 the line length.
